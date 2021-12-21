@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Covid-19 Modeling](/sample_page)
+[Covid-19 Modeling](/covid_project)
 <img src="images/covid_photo.png?raw=true"/>
 
 ---
