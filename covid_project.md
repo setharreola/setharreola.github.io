@@ -5,13 +5,10 @@
 - This Project was submitted and presented to the National Conference of Undergraduate Research 2021
 
 ### rShiny Dashboard 
-[Interactive vizualization dashboard](https://setharreola.shinyapps.io/covid_app/?_ga=2.84936985.1868763122.1640040497-243941837.1640040497)
+[Interactive Vizualization Dashboard](https://setharreola.shinyapps.io/covid_app/?_ga=2.84936985.1868763122.1640040497-243941837.1640040497)
 
 ### Slides 
 [Presentation Slides](/pdf/NCUR_poster_one.pdf)
 
 ### Article
 [Orange County Register Article on report](https://news.fullerton.edu/2021/01/study-reveals-coronavirus-spreads-faster-in-less-prosperous-counties/)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
