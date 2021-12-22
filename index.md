@@ -20,7 +20,7 @@
 
 ### M.S. Statistics (Cal State University of Fullerton) Course Work
 
-- [Project 1 Title](http://example.com/)
+- [Probability Theory and Statistics](/Math_530.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
