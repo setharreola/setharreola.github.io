@@ -18,7 +18,7 @@
 
 ---
 
-### M.S. Statistics Course Work
+### M.S. Statistics (Cal State University of Fullerton) Course Work
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
