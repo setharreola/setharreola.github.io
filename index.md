@@ -10,7 +10,7 @@
 
 ---
 
-[NBA Conference EDA](/html/NBA Exploritory Data Analysis.html)
+[NBA Conference EDA](/html/NBA_Exploritory_Data_Analysis.html)
 
 ---
 
