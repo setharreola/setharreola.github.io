@@ -8,3 +8,5 @@ James G., Witten D., Hastie T., and Tibshirani R. *An Introduction to Statistica
 
 ### Notable Labs
 - [Clustering (Hierarchical and Model-Based) on Fullerton California Housing Data](html/unsupLrning-on-fullerton-housing.html)
+- [Principle Componet Analysis on USArrest Dataset](html/PCR-USArrest.html)
+- [Principle Componet Regression on Fullerton California Housing Data](html/PCR-on-fullerton-housing.html)
