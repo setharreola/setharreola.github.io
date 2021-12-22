@@ -5,3 +5,5 @@ Nonparametric statistical inference including methods based on rank and order; r
 
 ### Textbook Used
 James G., Witten D., Hastie T., and Tibshirani R. *An Introduction to Statistical Learning: With Applications in R*, 1st edition, 2013
+
+### Notable Labs
