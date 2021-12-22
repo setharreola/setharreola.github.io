@@ -10,7 +10,8 @@
 ### Slides 
 [Presentation Slides](/pdf/NCUR_poster_one.pdf)
 
-
+### Article
+[Orange County Register Article on report](https://news.fullerton.edu/2021/01/study-reveals-coronavirus-spreads-faster-in-less-prosperous-counties/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
