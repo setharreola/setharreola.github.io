@@ -6,12 +6,13 @@
 
 [Covid-19 Modeling](/covid_project.md)
 
- <img src="images/orange_animation_02_10.gif?raw=true"/>
+<img src="images/orange_animation_02_10.gif?raw=true"/>
 
 ---
 
 [NBA Conference EDA](/html/NBA_Exploritory_Data_Analysis.html)
 
+<img src="images/point_margin_plot.png?raw=true"/>
 ---
 
 ### M.S. Statistics (Cal State University of Fullerton) Course Work
