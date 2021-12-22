@@ -7,3 +7,4 @@ Nonparametric statistical inference including methods based on rank and order; r
 James G., Witten D., Hastie T., and Tibshirani R. *An Introduction to Statistical Learning: With Applications in R*, 1st edition, 2013
 
 ### Notable Labs
+- [Clustering (Hierarchical and Model-Based) on Fullerton California Housing Data](html/unsupLrning-on-fullerton-housing.html)
