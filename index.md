@@ -5,7 +5,7 @@
 ### Projects 
 
 [Covid-19 Modeling](/covid_project.md)
-<img src="images/NCUR_poster_pic.png?raw=true"/>
+<img src="images/orange_animation_02_10.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
