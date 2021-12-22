@@ -10,6 +10,9 @@
 
 ---
 
+[NBA Conference EDA](/html/NBA_Exploritory_Data_Analysis.html)
+
+---
 
 ### M.S. Statistics (Cal State University of Fullerton) Course Work
 
