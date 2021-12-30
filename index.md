@@ -18,7 +18,7 @@
 
 [Barley Lake Hiatus Estimation](/barley_lake.md)
 
-<img src="images/?raw=true"/>
+<img src="images/barley_lake_convergence_dist_plot.jpeg?raw=true"/>
 
 ---
 
