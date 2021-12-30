@@ -16,6 +16,12 @@
 
 ---
 
+[Barley Lake Hiatus Estimation](/barley_lake.md)
+
+<img src="images/?raw=true"/>
+
+---
+
 ### M.S. Statistics (Cal State University of Fullerton) Course Work
 
 - [Probability Theory and Statistics](/Math_530.md)
