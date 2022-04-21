@@ -25,7 +25,7 @@
 ### M.S. Statistics (Cal State University of Fullerton) Course Work
 
 - [Statistical Computing and Optimization](/Math_534.md)
-- [Probability Theory and Statistics](/Math_530.md)
+- [Probability Theory and Statistical Inference](/Math_530.md)
 - [Modern Approches to Data Analysis](/Math_437.md)
 
 ---
