@@ -15,7 +15,5 @@ linear models. The course then introduces modern classification models in the di
 
 ### Textbook Used
 Two texts are used:
-
-The first is A Modern Approach to Regression by Sheather.  
-
-The Second is Categorical Data Analysis by Agresti, Third Edition.  
+- The first is A Modern Approach to Regression by Sheather.
+- The Second is Categorical Data Analysis by Agresti, Third Edition.  
