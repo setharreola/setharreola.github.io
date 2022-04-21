@@ -1,5 +1,16 @@
 ## Portfolio
 
+---
+
+### M.S. Statistics (Cal State University of Fullerton) Course Work
+
+- [Statistical Computing and Optimization](/Math_534.md)
+- [Generalized Linear Models and Catagorical Analysis](/Math_536.md)
+- [Probability Theory and Statistical Inference](/Math_530.md)
+- [Modern Approches to Data Analysis](/Math_437.md)
+
+---
+
 ### Projects 
 
 ---
@@ -19,15 +30,6 @@
 [Barley Lake Hiatus Estimation](/barley_lake.md)
 
 <img src="images/barley_lake_convergence_dist_plot.jpeg?raw=true"/>
-
----
-
-### M.S. Statistics (Cal State University of Fullerton) Course Work
-
-- [Statistical Computing and Optimization](/Math_534.md)
-- [Generalized Linear Models and Catagorical Analysis](/Math_536.md)
-- [Probability Theory and Statistical Inference](/Math_530.md)
-- [Modern Approches to Data Analysis](/Math_437.md)
 
 ---
 
