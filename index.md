@@ -20,6 +20,12 @@
 
 ---
 
+[MLB Pitching Analysis](/html/Seth_Pitching-Analysis.html)
+
+<img src="images/point_margin_plot.png?raw=true"/>
+
+---
+
 [NBA Conference EDA](/html/NBA_Exploritory_Data_Analysis.html)
 
 <img src="images/point_margin_plot.png?raw=true"/>
