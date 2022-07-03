@@ -1,7 +1,7 @@
 
 ---
 
-### M.S. Statistics (Cal State University of Fullerton) Course Work
+### M.S. Statistics Course Work
 
 - [Statistical Computing and Optimization](/Math_534.md)
 - [Generalized Linear Models and Catagorical Analysis](/Math_536.md)
