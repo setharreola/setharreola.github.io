@@ -27,6 +27,11 @@
 
 ---
 
+[DARPA Report](/html/Math536_DARPA_Report.html)
+
+<img scr="DARPA_pic.png?raw=true"/>
+---
+
 [NBA Conference EDA](/html/NBA_Exploritory_Data_Analysis.html)
 
 <img src="images/point_margin_plot.png?raw=true"/>
