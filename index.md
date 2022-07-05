@@ -6,6 +6,7 @@
 - [Statistical Computing and Optimization](/Math_534.md)
 - [Generalized Linear Models and Catagorical Analysis](/Math_536.md)
 - [Probability Theory and Statistical Inference](/Math_530.md)
+- [Experimental Design]
 - [Modern Approches to Data Analysis](/Math_437.md)
 
 ---
