@@ -3,6 +3,7 @@
 
 ### M.S. Statistics Course Work
 
+- [Statistical/Machine Learning](/Math_533.md)
 - [Statistical Computing and Optimization](/Math_534.md)
 - [Generalized Linear Models and Catagorical Analysis](/Math_536.md)
 - [Probability Theory and Statistical Inference](/Math_530.md)
