@@ -17,6 +17,12 @@
 
 ---
 
+[Airbnb Analysis and Modeling](/Airbnb_project.md)
+
+<img src="images/Airbnb_price_map.png"/>
+
+---
+
 [Covid-19 Modeling](/covid_project.md)
 
 <img src="images/orange_animation_02_10.gif?raw=true"/>
