@@ -8,5 +8,5 @@
 [Project Paper](/pdf/Airbnb_Final_Report.pdf)
 
 ### Slides 
-[Presentation Slides](/pdf/Airbnb_presentation_slides.pdf)
+[Presentation Slides](/pdf/Airbnbl_presentation_slides.pdf)
 
