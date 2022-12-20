@@ -23,15 +23,15 @@
 
 ---
 
-[Covid-19 Modeling](/covid_project.md)
-
-<img src="images/orange_animation_02_10.gif?raw=true"/>
-
----
-
 [MLB Pitching Analysis](/html/Seth_Pitching-Analysis.html)
 
 <img src="images/pitch_type.png?raw=true"/>
+
+---
+
+[Covid-19 Modeling](/covid_project.md)
+
+<img src="images/orange_animation_02_10.gif?raw=true"/>
 
 ---
 
